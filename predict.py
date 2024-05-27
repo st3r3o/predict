@@ -526,12 +526,12 @@
         "plt.show()\n"
       ],
       "metadata": {
-        "id": "udJ07_U7XEV0",
-        "outputId": "0342c9f9-233b-4864-e78b-6567b8ee2ff3",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1000
-        }
+        },
+        "id": "udJ07_U7XEV0",
+        "outputId": "0342c9f9-233b-4864-e78b-6567b8ee2ff3"
       },
       "execution_count": 6,
       "outputs": [
